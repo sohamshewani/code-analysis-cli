@@ -1,0 +1,6 @@
+click
+rich
+pytest
+coverage
+sqlite3
+click-rich-panel
